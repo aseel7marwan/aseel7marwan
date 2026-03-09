@@ -1,6 +1,5 @@
 # Hi, I'm Aseel Marwan Kheder! 👋
-### Full-Stack Software Developer | Secure Systems Specialist
- Full-Stack Software Engineer & Secure Systems Specialist 🚀 | Based in Cologne, Germany 🇩🇪 | Discipline in the gym, Performance in the code. 💻 
+### Full-Stack Software Engineer | IT-Assistent (i. A.) | Based in Cologne, Germany | Discipline in the gym, Performance in the code.
 
 - 🌍 Based in **Cologne, Germany**
 - 🌐 **Portfolio:** [aseelmarwan.de](https://aseelmarwan.de)
