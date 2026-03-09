@@ -1,5 +1,5 @@
 # Hi, I'm Aseel Marwan Kheder! 👋
-###  Full-Stack Software Engineer | IT-Assistent (i. A.).
+### Full-Stack Software Engineer | IT-Assistent (i. A.).
 
 - 🌍 Based in **Cologne, Germany**
 - 🌐 **Portfolio:** [aseelmarwan.de](https://aseelmarwan.de)
@@ -15,10 +15,11 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Modern Frameworks (Project-Driven & AI-Assisted):**
+**Modern Frameworks & AI Creative (Project-Driven):**
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![AI Branding](https://img.shields.io/badge/AI_Branding-%238A2BE2.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 **Academic & Basic Knowledge:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
