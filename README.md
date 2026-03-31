@@ -1,5 +1,5 @@
 # Hi, I'm Aseel Marwan Kheder! 👋
-### Junior Full-Stack Software Engineer.
+### IT-Support Specialist & Web Developer.
 
 - 🌍 Based in **Cologne, Germany**
 - 🌐 **Portfolio:** [aseelmarwan.de](https://aseelmarwan.de)
