@@ -1,32 +1,43 @@
 # Hi, I'm Aseel Marwan Kheder! 👋
-### IT-Support Specialist & Web Developer.
+### IT-Support Specialist & Full-Stack Software Engineer
 
 - 🌍 Based in **Cologne, Germany**
-- 🌐 **Portfolio:** [www.aseelmarwan.de](https://www.aseelmarwan.de)
-- 💡 **My Development Philosophy:** I specialize in building secure, robust backend systems from the ground up, with a strong focus on Clean Architecture and GDPR compliance. While I believe in writing solid core logic manually, I actively leverage AI-assisted workflows to rapidly architect and deploy modern frontends and mobile apps. For me, it’s about combining fundamental engineering principles with cutting-edge tools to deliver high-performance, secure software efficiently.
-- 🔐 **Security & Optimization:** Implementing 2FA, API Rate Limiting, Firewalls, and efficient CDN/Caching strategies.
+- 🌐 **Portfolio & Case Studies:** [www.aseelmarwan.de](https://www.aseelmarwan.de)
+
+### 🧠 The Engineering Mindset
+My journey started at the root: troubleshooting hardware and network systems. Today, I apply that deep systems-level understanding to build secure, scalable software architectures.
+- **Backend & Architecture:** Specializing in replacing legacy monoliths with modern, role-aware SPAs (Node.js/PostgreSQL/PHP).
+- **Security by Default:** Strict implementation of Clean Architecture, GDPR compliance, API Rate Limiting, Firewalls, and 2FA.
+- **Smart Workflows:** I write solid, robust core logic manually, while actively leveraging AI-assisted workflows to rapidly prototype, architect, and deploy modern frontends.
+
+### 🚀 Featured Work
+**[AZ Consulting GmbH CRM — NextGen](https://www.aseelmarwan.de/az-crm-case-study.html)** *Re-engineered an aging ASP.NET monolith into a high-performance SPA within a strict 21-day sprint.*
+- **Data Integrity:** Forensic migration of 1,000+ client records and 19+ GB of assets with **0% data loss** and **€0.00 financial variance**.
+- **DevOps:** Built custom SSH-driven CI/CD and a dual-layer cryptographic Strato HiDrive backup system.
 
 ### 🛠 Tech Stack
 
-**Core Foundation (My Main Expertise):**
-![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Architecture & Backend:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-**Modern Frameworks & AI Creative (Project-Driven):**
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![AI Branding](https://img.shields.io/badge/AI_Branding-%238A2BE2.svg?style=for-the-badge&logo=openai&logoColor=white)
+**Frontend & Mobile:**
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**Academic & Basic Knowledge:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Academic & Fundamentals:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📫 Contact & Links
 [![Portfolio](https://img.shields.io/badge/Website-aseelmarwan.de-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aseelmarwan.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aseel-marwan-kheder-36b17033b/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aseel7marwan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:kontakt@aseelmarwan.de)
