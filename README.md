@@ -2,7 +2,7 @@
 ### IT-Support Specialist & Web Developer.
 
 - 🌍 Based in **Cologne, Germany**
-- 🌐 **Portfolio:** [aseelmarwan.de](https://www.aseelmarwan.de)
+- 🌐 **Portfolio:** [www.aseelmarwan.de](https://www.aseelmarwan.de)
 - 💡 **My Development Philosophy:** I specialize in building secure, robust backend systems from the ground up, with a strong focus on Clean Architecture and GDPR compliance. While I believe in writing solid core logic manually, I actively leverage AI-assisted workflows to rapidly architect and deploy modern frontends and mobile apps. For me, it’s about combining fundamental engineering principles with cutting-edge tools to deliver high-performance, secure software efficiently.
 - 🔐 **Security & Optimization:** Implementing 2FA, API Rate Limiting, Firewalls, and efficient CDN/Caching strategies.
 
