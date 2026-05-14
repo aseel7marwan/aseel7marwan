@@ -10,7 +10,7 @@ I bridge the gap between deep hardware/network troubleshooting and modern, high-
 - **Architecture First:** I specialize in building secure, robust systems from the ground up, with a strong focus on Clean Architecture and strict GDPR compliance.
 - **Smart Execution:** While I believe in writing solid core logic manually, I actively leverage AI-assisted workflows to rapidly architect and deploy modern frontends and mobile apps.
 - **Security & Optimization:** Security is never an afterthought. I implement 2FA, API Rate Limiting, Firewalls, and efficient CDN/Caching strategies by default.
-- **The Standard:** *"Discipline in the gym, Performance in the code."* I aim for 100/100 Lighthouse scores and flawless data integrity.
+- **The Standard:** *"Discipline in the sport, Performance in the code."* I aim for 100/100 Lighthouse scores and flawless data integrity.
 
 ### 🏆 Featured Work
 **[AZ Consulting GmbH CRM — NextGen](https://www.aseelmarwan.de/az-crm-case-study.html)** *Lead Architect & Full-Stack Engineer* Engineered a high-performance SPA to replace a legacy ASP.NET monolith in a strict 21-day sprint. 
