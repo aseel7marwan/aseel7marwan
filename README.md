@@ -42,6 +42,6 @@ I bridge the gap between deep hardware/network troubleshooting and modern, high-
 
 ### 📫 Contact & Links
 [![Portfolio](https://img.shields.io/badge/Website-aseelmarwan.de-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.aseelmarwan.de)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aseel-marwan-kheder-36b17033b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/aseel-marwan-kheder-36b17033b/](https://www.linkedin.com/in/aseel7marwan/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aseel7marwan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:kontakt@aseelmarwan.de)
