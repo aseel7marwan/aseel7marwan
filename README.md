@@ -73,7 +73,7 @@ It includes migration of existing client data, cases, and documents (~1,000+ rec
 - 💻 GitHub: https://github.com/aseel7marwan
 - ✉️ Email: mailto:kontakt@aseelmarwan.de
 
-Open to IT-Support or Junior Full-Stack roles in Cologne / NRW or remote.
+Open to IT-Support, Junior Full-Stack Developer, and IT roles in Cologne / NRW or remote.
 
 ---
 
