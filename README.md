@@ -1,47 +1,80 @@
-# Hi, I'm Aseel Marwan Kheder! 👋
-### IT-Support Specialist & Web Developer.
+# Hi, I'm Aseel Marwan Kheder 👋
+### IT-Support & Junior Full-Stack Developer
 
-I bridge the gap between deep hardware/network troubleshooting and modern, high-performance software architecture. Based in Cologne, Germany 🇩🇪.
+I am based in Cologne, Germany 🇩🇪 and focus primarily on IT-Support, including hardware and software troubleshooting, system setup, and 1st / 2nd level support in real working environments.
 
-- 🌐 **Portfolio & Case Studies:** [aseelmarwan.de](https://www.aseelmarwan.de)
-- 🚀 **Currently:** Open to Full-Stack & IT-Support roles in NRW or remote.
+Alongside that, I build junior-level full-stack web applications using PHP, JavaScript, React, Node.js, and MySQL. My projects are practical, small to medium in scope, and focused on functionality, structure, and maintainability.
 
-### 💡 Engineering Philosophy
-- **Architecture First:** I specialize in building secure, robust systems from the ground up, with a strong focus on Clean Architecture and strict GDPR compliance.
-- **Smart Execution:** While I believe in writing solid core logic manually, I actively leverage AI-assisted workflows to rapidly architect and deploy modern frontends and mobile apps.
-- **Security & Optimization:** Security is never an afterthought. I implement 2FA, API Rate Limiting, Firewalls, and efficient CDN/Caching strategies by default.
-- **The Standard:** *"Discipline in the sport, Performance in the code."* I aim for 100/100 Lighthouse scores and flawless data integrity.
+I focus on understanding the systems I work with, testing my implementations, and improving them step by step. AI tools are used as support only — for suggestions and speed — while all final decisions, implementation, and testing are done by me.
 
-### 🏆 Featured Work
-**[AZ Consulting GmbH CRM — NextGen](https://www.aseelmarwan.de/az-crm-case-study.html)** *Lead Architect & Full-Stack Engineer* Engineered a high-performance SPA to replace a legacy ASP.NET monolith in a strict 21-day sprint. 
-- Achieved **0% data loss** during forensic migration of 1,000+ client records and 19+ GB of assets.
-- Implemented **dual-layer Strato HiDrive backups** and a secure, role-aware (RBAC) architecture.
+- 🌐 Portfolio: https://www.aseelmarwan.de
+- 🚀 Open to IT-Support, Werkstudent, or Junior Full-Stack roles in NRW / remote
 
-### 🛠 Tech Stack
+---
 
-**Core Foundation (Main Expertise):**
+## 💡 Working Approach
+
+- IT-Support First Mindset: My main experience is in hands-on IT-Support, including troubleshooting, system setup, and maintenance.
+- Practical Development: I build web applications to solve real problems and improve my understanding of systems.
+- AI as Support Tool: I use AI for assistance (ideas, scaffolding, suggestions), but I always review and implement everything myself.
+- Simplicity over Complexity: I prefer readable, maintainable solutions over unnecessary complexity.
+- Security Awareness: I apply basic security practices such as authentication, role-based access, and safe data handling when needed.
+
+---
+
+## 🏆 Featured Project
+
+### AZ Consulting GmbH CRM — NextGen
+Internal Full-Stack Project (Solo)
+
+Built an internal CRM system for AZ Consulting GmbH used by 4 users (3 employees and 1 manager).
+
+The project replaced an older ASP.NET / SQL Server system with a React and Node.js application over approximately 3 weeks.
+
+It includes migration of existing client data, cases, and documents (~1,000+ records and ~19 GB of files), along with role-based access control and automated backup processes.
+
+- React, Node.js, PostgreSQL
+- Structured migration from legacy system
+- Role-based access control (basic RBAC)
+- Automated backup system
+- Internal use only (not a public product)
+
+---
+
+## 🛠 Tech Stack
+
+### Core Technologies (Main Experience)
+
 ![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Modern Architecture & AI (Project-Driven):**
+### Modern Web (Project-Based Experience)
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![AI Branding](https://img.shields.io/badge/AI_Workflows-%238A2BE2.svg?style=for-the-badge&logo=openai&logoColor=white)
 
-**Academic & Basic Knowledge:**
+### Additional Knowledge
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 📫 Contact & Links
-[![Portfolio](https://img.shields.io/badge/Website-aseelmarwan.de-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.aseelmarwan.de)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aseel7marwan/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aseel7marwan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:kontakt@aseelmarwan.de)
+---
+
+## 📫 Contact
+
+- 🌐 Portfolio: https://www.aseelmarwan.de
+- 💼 LinkedIn: https://www.linkedin.com/in/aseel7marwan/
+- 💻 GitHub: https://github.com/aseel7marwan
+- ✉️ Email: mailto:kontakt@aseelmarwan.de
+
+Open to IT-Support (preferred), Werkstudent, or Junior Full-Stack roles in Cologne / NRW or remote.
+
+---
+
+© 2026 Aseel Marwan Kheder. Built with practical engineering and clean code.
