@@ -1,4 +1,4 @@
-# Hi, I'm Aseel Marwan Kheder 👋
+# Hi, I'm Aseel Marwan Kheder 
 ### IT-Support & Junior Full-Stack Developer
 
 I am based in Cologne, Germany 🇩🇪 and focus primarily on IT-Support, including hardware and software troubleshooting, system setup, and 1st / 2nd level support in real working environments.
