@@ -1,60 +1,59 @@
-# Hi, I'm Aseel Marwan Kheder 
-### IT-Support & Junior Full-Stack Developer
+# Hi, I'm Aseel Marwan Kheder 👋
+### IT Support & Junior Full-Stack Developer
 
-I am based in Cologne, Germany 🇩🇪 and focus primarily on IT-Support, including hardware and software troubleshooting, system setup, and 1st / 2nd level support in real working environments.
+I'm based in Cologne, Germany 🇩🇪 and combine hands-on IT support experience with practical full-stack development.
 
-Alongside that, I build junior-level full-stack web applications using PHP, JavaScript, React, Node.js, and MySQL. My projects are practical, small to medium in scope, and focused on functionality, structure, and maintainability.
+My IT background includes 1st & 2nd level support, hardware/software troubleshooting, Windows systems, user support, system setup and maintenance.
 
-I focus on understanding the systems I work with, testing my implementations, and improving them step by step. AI tools are used as support only — for suggestions and speed — while all final decisions, implementation, and testing are done by me.
+Alongside IT support, I develop and maintain real-world web and business applications. My core web fundamentals are HTML, CSS, JavaScript and PHP, with project-based experience using React, Node.js, TypeScript, PostgreSQL, Next.js and Docker.
 
-- 🌐 Portfolio: https://www.aseelmarwan.de
-- 🚀 Open to IT-Support, Werkstudent, or Junior Full-Stack roles in NRW / remote
+I currently work freelance for AZ Consulting GmbH, where I develop and maintain an internal ERP/CRM system, the company website and related IT systems.
+
+🌐 Portfolio: https://www.aseelmarwan.de  
+🚀 Open to IT Support, System Administration and Junior Full-Stack Developer roles in Cologne / NRW or remote
 
 ---
 
 ## 💡 Working Approach
 
-- IT-Support First Mindset: My main experience is in hands-on IT-Support, including troubleshooting, system setup, and maintenance.
-- Practical Development: I build web applications to solve real problems and improve my understanding of systems.
-- AI as Support Tool: I use AI for assistance (ideas, scaffolding, suggestions), but I always review and implement everything myself.
-- Simplicity over Complexity: I prefer readable, maintainable solutions over unnecessary complexity.
-- Security Awareness: I apply basic security practices such as authentication, role-based access, and safe data handling when needed.
+- **Structured Troubleshooting:** I approach technical problems step by step and focus on practical, reliable solutions.
+- **Practical Development:** I build applications around real workflows and business requirements.
+- **Maintainability:** I prefer clear, understandable solutions over unnecessary complexity.
+- **Security Awareness:** I apply authentication, access control, safe data handling and other appropriate security practices.
+- **AI-Assisted Development:** I use AI tools for research, suggestions and development support while reviewing, testing and taking responsibility for the final implementation.
 
 ---
 
 ## 🏆 Featured Project
 
-### AZ Consulting GmbH CRM — NextGen
-Internal Full-Stack Project (Solo)
+### AZ Consulting GmbH — ERP/CRM System
+**Full-Stack Development & Ongoing System Support**
 
-Built an internal CRM system for AZ Consulting GmbH used by 4 users (3 employees and 1 manager).
+Developed an internal ERP/CRM system for AZ Consulting GmbH to replace a legacy ASP.NET / SQL Server application.
 
-The project replaced an older ASP.NET / SQL Server system with a React and Node.js application over approximately 3 weeks.
+The system supports customer and case management, documents, appointments, internal workflows and user permissions.
 
-It includes migration of existing client data, cases, and documents (~1,000+ records and ~19 GB of files), along with role-based access control and automated backup processes.
+A structured migration included more than 1,000 client records and over 20,000 documents (~19 GB). Following the initial development, I continue to maintain and extend the system and provide technical support for internal users.
 
-- React, Node.js, PostgreSQL
-- Structured migration from legacy system
-- Role-based access control (basic RBAC)
-- Automated backup system
-- Internal use only (not a public product)
+**Tech:** React · Node.js · TypeScript · PostgreSQL · Prisma · Docker
 
 ---
 
 ## 🛠 Tech Stack
 
-### Core Technologies (Main Experience)
+### Core Web Technologies
 
-![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Modern Web (Project-Based Experience)
+### Project-Based Experience
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -68,13 +67,9 @@ It includes migration of existing client data, cases, and documents (~1,000+ rec
 
 ## 📫 Contact
 
-- 🌐 Portfolio: https://www.aseelmarwan.de
-- 💼 LinkedIn: https://www.linkedin.com/in/aseel7marwan/
-- 💻 GitHub: https://github.com/aseel7marwan
-- ✉️ Email: mailto:kontakt@aseelmarwan.de
+🌐 Portfolio: https://www.aseelmarwan.de  
+💼 LinkedIn: https://www.linkedin.com/in/aseel7marwan/  
+💻 GitHub: https://github.com/aseel7marwan  
+✉️ Email: kontakt@aseelmarwan.de
 
-Open to IT-Support, Junior Full-Stack Developer, and IT roles in Cologne / NRW or remote.
-
----
-
-© 2026 Aseel Marwan Kheder. Built with practical engineering and clean code.
+Open to IT Support, System Administration and Junior Full-Stack Developer opportunities in Cologne / NRW or remote.
